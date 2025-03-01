@@ -93,7 +93,7 @@ Evaluates **marketing campaign performance**, including ROI and customer engagem
 - **Bar Chart:** Campaign ROI by Quarter
 - **Line Chart:** Engagement Rate Trend
 
-📸 **Image Placeholder: Marketing View Screenshot**
+![Marketing View](https://github.com/Vanshika0309/Buisness-Insight-360-Power-Bi-Dashboard/blob/main/MV.png)
 
 ### 🔹 Key Questions & Insights:
 1. **Which marketing channel generated the highest ROI?** → **Social Media (32%)**
