@@ -113,7 +113,8 @@ Monitors **inventory levels, order fulfillment, and supply chain efficiency**.
 - **Line Chart:** Lead Time Trend
 - **Table Visual:** Supplier Performance Ratings
 
-📸 **Image Placeholder: Supply Chain View Screenshot**
+![Supply Chain View](https://github.com/Vanshika0309/Buisness-Insight-360-Power-Bi-Dashboard/blob/main/SCV.png)
+
 
 ### 🔹 Key Questions & Insights:
 1. **What is the current order fulfillment rate?** → **92%**
