@@ -134,7 +134,7 @@ Summarizes key business insights for leadership.
 - **Company Growth Trends Over 5 Years**
 - **Profitability & Risk Analysis**
 
-📸 **Image Placeholder: Executive View Screenshot**
+![Executive View](https://github.com/Vanshika0309/Buisness-Insight-360-Power-Bi-Dashboard/blob/main/EV.png)
 
 ### 🔹 Key Questions & Insights:
 1. **What is the overall revenue trend?** → **Steady increase**
@@ -153,11 +153,111 @@ The **Filter Pane** allows users to slice and dice data based on:
 - **Product Category**
 - **Campaign Type**
 
-📸 **Image Placeholder: Filter Pane Screenshot**
+![Fiter Pane]()
+---
+
+## 🔎 Business Insights 360 - Key Overview Questions & Answers  
+
+Here are **key overview questions about Atliq Hardware Business Insights 360 Dashboard**:  
 
 ---
 
-## 📌 Conclusion
-This dashboard provides **a holistic business overview**, helping **finance, sales, marketing, and supply chain teams** make data-driven decisions. It enhances **efficiency, profitability, and strategic planning** at Atliq Hardware.
+### **1️⃣ What is the purpose of this dashboard?**  
+📌 **Answer:**  
+This **Power BI dashboard** provides a **360-degree view** of Atliq Hardware’s business operations, covering **Finance, Sales, Marketing, Supply Chain, and Executive Insights**. It helps stakeholders track key performance indicators (KPIs), analyze trends, and make data-driven decisions.  
 
-🚀 **Feel free to explore and improve the dashboard!**
+---
+
+### **2️⃣ What are the key KPIs included in this dashboard?**  
+📌 **Answer:**  
+The dashboard focuses on:  
+- **Finance:** Revenue, Gross Profit, Operating Expenses  
+- **Sales:** Gross Sales, Net Sales, Customer Retention  
+- **Marketing:** Campaign ROI, Ad Spend, Engagement Rates  
+- **Supply Chain:** Inventory Turnover, Order Fulfillment, Supplier Performance  
+- **Executive Summary:** Overall Profitability, Market Share, Growth Trends  
+
+---
+
+### **3️⃣ How does this dashboard help in decision-making?**  
+📌 **Answer:**  
+It consolidates critical business data into **interactive visuals**, enabling managers and executives to:  
+- Identify financial trends and profitability  
+- Evaluate marketing effectiveness  
+- Optimize inventory and supply chain efficiency  
+- Monitor sales performance  
+- Make strategic business decisions based on **real-time insights**  
+
+---
+
+### **4️⃣ How is the data structured and integrated into Power BI?**  
+📌 **Answer:**  
+The data is **extracted from multiple sources** like **SQL databases and Excel**. It undergoes **data transformation and modeling** in Power BI, where **DAX measures** calculate key business metrics for visualization.  
+
+---
+
+### **5️⃣ What filters are available for users to interact with the dashboard?**  
+📌 **Answer:**  
+Users can filter the data by:  
+- **Year** (Analyze performance over different periods)  
+- **Region** (Compare business performance across locations)  
+- **Product Category** (Evaluate top-selling products)  
+- **Campaign Type** (Analyze different marketing strategies)  
+
+---
+
+### **6️⃣ How does the Finance View help stakeholders?**  
+📌 **Answer:**  
+It provides a **Profit & Loss Statement**, showing revenue, expenses, and profit trends. It helps finance teams analyze:  
+- **Year-over-Year (YoY) revenue growth**  
+- **Expense management**  
+- **Net Profit Margins** to assess overall profitability  
+
+---
+
+### **7️⃣ How can sales teams use the Sales View?**  
+📌 **Answer:**  
+The **Sales View** helps in understanding **sales performance trends**, identifying top-selling products, and tracking monthly/quarterly growth. It allows sales managers to:  
+- Identify peak sales periods  
+- Compare **gross vs. net sales**  
+- Improve customer retention strategies  
+
+---
+
+### **8️⃣ What insights can marketing teams gain from the Marketing View?**  
+📌 **Answer:**  
+The **Marketing View** helps teams measure **campaign performance** by tracking:  
+- ROI for different marketing channels (Social Media, Email, Ads)  
+- Engagement rates and conversion trends  
+- Budget allocation efficiency for future campaigns  
+
+---
+
+### **9️⃣ How does the Supply Chain View optimize logistics?**  
+📌 **Answer:**  
+It monitors **order fulfillment rates, inventory turnover, and lead times** to:  
+- Identify supply chain inefficiencies  
+- Improve order delivery performance  
+- Optimize stock levels and supplier reliability  
+
+---
+
+### **🔟 What are the main business takeaways from this dashboard?**  
+📌 **Answer:**  
+The dashboard provides **data-driven insights** for Atliq Hardware, including:  
+- **Revenue & profit growth trends**  
+- **Sales patterns & top-performing products**  
+- **Marketing campaign effectiveness**  
+- **Supply chain efficiency & inventory management**  
+- **Overall company performance & risk assessment**  
+
+---
+
+## 📌 Conclusion & Final Thoughts  
+
+This **Atliq Hardware Business Insights 360 Dashboard** is a **powerful analytical tool** that helps businesses make **informed, data-driven decisions**. It **streamlines financial tracking, sales monitoring, marketing analysis, and supply chain optimization**.  
+
+By using **interactive Power BI features**, stakeholders can **explore insights dynamically** and improve business strategies.  
+
+🚀 **This dashboard ensures Atliq Hardware stays ahead in a competitive market!**  
+
