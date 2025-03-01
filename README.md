@@ -72,7 +72,8 @@ This section tracks **gross and net sales**, helping managers evaluate sales per
 - **Table Visual:** Top 10 Products by Sales
 - **Card Visuals:** Total Gross Sales, Net Sales, % Growth
 
-📸 **Image Placeholder: Sales View Screenshot**
+![Sales View](https://github.com/Vanshika0309/Buisness-Insight-360-Power-Bi-Dashboard/blob/main/SV.png)
+
 
 ### 🔹 Key Questions & Insights:
 1. **What was the total Gross Sales in 2023?** → **$14M**
