@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 Atliq Hardware is a growing hardware manufacturing company that aims to optimize its business decisions with data-driven insights. This **Power BI Dashboard** provides a **360-degree** view of its operations, covering key business aspects such as **Finance, Sales, Marketing, Supply Chain, and Executive Insights**. The dashboard allows stakeholders to analyze trends, measure performance, and make informed decisions.
 
-**📂 Project Link:** [[Upload Your Project Link Here]](https://app.powerbi.com/links/AZw3mGvXTr?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
+**📂 Project Link:** [[Project Link Here]](https://app.powerbi.com/links/AZw3mGvXTr?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
 
 ## 🛠️ Tools & Technologies Used
 - **Power BI** - Data Visualization & Dashboard Development
