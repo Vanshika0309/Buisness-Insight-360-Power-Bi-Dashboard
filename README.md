@@ -153,7 +153,7 @@ The **Filter Pane** allows users to slice and dice data based on:
 - **Product Category**
 - **Campaign Type**
 
-![Fiter Pane]()
+![Fiter Pane](https://github.com/Vanshika0309/Buisness-Insight-360-Power-Bi-Dashboard/blob/main/Filter%20Pane.png)
 ---
 
 ## 🔎 Business Insights 360 - Key Overview Questions & Answers  
