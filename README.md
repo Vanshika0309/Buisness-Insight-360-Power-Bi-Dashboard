@@ -32,6 +32,7 @@ The **Home Page** serves as a navigation hub, containing **bookmarks and buttons
 - **Support Overlay Button** (Toggles additional explanations for visuals)
 - **Company Branding & Dashboard Title**
 
+![1.png]
 ---
 
 ## 💰 Finance View
