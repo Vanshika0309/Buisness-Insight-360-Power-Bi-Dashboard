@@ -36,6 +36,8 @@ The **Home Page** serves as a navigation hub, containing **bookmarks and buttons
 
 **Support Overlay**
 
+![Home Page](https://github.com/Vanshika0309/Buisness-Insight-360-Power-Bi-Dashboard/blob/main/2.png)
+
 ---
 
 ## 💰 Finance View
