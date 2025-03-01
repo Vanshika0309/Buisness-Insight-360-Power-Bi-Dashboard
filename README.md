@@ -50,7 +50,8 @@ This section provides a detailed **Profit & Loss Statement**, tracking revenue, 
 - **Line Chart:** Operating Expenses Trend
 - **Card Visuals:** Total Revenue, Net Profit, Operating Expense
 
-📸 **Image Placeholder: Finance View Screenshot**
+![Finance View](https://github.com/Vanshika0309/Buisness-Insight-360-Power-Bi-Dashboard/blob/main/FV.png)
+
 
 ### 🔹 Key Questions & Insights:
 1. **What was the Gross Sales in 2020?** → **$12.5M** (from the P&L statement)
