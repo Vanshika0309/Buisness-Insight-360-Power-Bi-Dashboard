@@ -160,8 +160,6 @@ The **Filter Pane** allows users to slice and dice data based on:
 
 Here are **key overview questions about Atliq Hardware Business Insights 360 Dashboard**:  
 
----
-
 ### **1️⃣ What is the purpose of this dashboard?**  
 📌 **Answer:**  
 This **Power BI dashboard** provides a **360-degree view** of Atliq Hardware’s business operations, covering **Finance, Sales, Marketing, Supply Chain, and Executive Insights**. It helps stakeholders track key performance indicators (KPIs), analyze trends, and make data-driven decisions.  
